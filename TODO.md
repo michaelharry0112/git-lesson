@@ -1,5 +1,6 @@
-# My ToDO list
+# My ToDo list
 
-- [ ] Learn fist part of Git course
+- [x] Learn fist part of Git course
 - [ ] Do some work
 - [ ] Drive to Brum
+- [ ] Hang mirror
